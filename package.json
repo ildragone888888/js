@@ -2,10 +2,7 @@
   "name": "my-package",
   "version": "1.0.0",
   "description": "A test package",
-  "main": "index.js",
   "scripts": {
         "start": "node index.js"
     }
-  "author": "StackOverflow Documentation",
-  "license": "MIT"
 }
