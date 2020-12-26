@@ -206,7 +206,7 @@ function application(req, res) {
                 http_request.end();
             });
     });
-}
+} 
 
 console.log('local node application serving at ' + ipaddr + ':' + port);
 http.createServer(application).listen(port, ipaddr);
