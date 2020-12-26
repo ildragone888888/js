@@ -1,11 +1,4 @@
-{ 
-  "name": "redux-ru-tutorial", 
-  "version": "1.0.0", 
-  "description": "Redux RU tutorial", 
-  "main": "index.js", 
-    "scripts": { 
-    "start": "node index.js" 
-  }, 
-  "author": "Maxim Patsianskiy", 
-  "license": "MIT" 
+{
+  "name": "modulesapp",
+  "version": "1.0.0"
 }
